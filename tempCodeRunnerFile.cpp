@@ -1,2 +1,2 @@
-
-        {
+alue: ";
+            cin >> value;
